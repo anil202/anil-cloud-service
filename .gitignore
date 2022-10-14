@@ -1,3 +1,2 @@
-* .net
-* .py
-! fifth.py
+.idea/*
+*.iml
